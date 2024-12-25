@@ -35,7 +35,7 @@ This MATLAB project simulates an industrial production process, focusing on qual
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/espoupou/MSP_Pilotage.git)
+   git clone https://github.com/espoupou/MSP_Pilotage.git
    ```
 2. Open MATLAB and navigate to the project folder.
 3. Run the script:
