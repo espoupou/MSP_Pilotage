@@ -36,7 +36,7 @@ fprintf("\n");
 
 % preparation phase
 disp("Phase de préparation : Carte de contrôle provisoire");
-% data took from the sujet data[i][j] = mu + (suject[i][j] / 1000)
+% data extracted from the sujet data[i][j] = mu + (suject[i][j] / 1000)
 data = [[49.94 49.96 49.94 50.10 49.97 ];
         [49.89 49.87 50.05 49.90 49.90 ];
         [50.10 50.12 49.98 49.87 50.05 ];
