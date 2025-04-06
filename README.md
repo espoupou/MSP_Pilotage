@@ -71,4 +71,4 @@ This project is open-source and available under the MIT License. Feel free to us
 Contributions are welcome! If you have suggestions for improvement, please create a pull request or open an issue.
 
 ## Contact
-For questions or support, please contact [espoirativon@gmail.com].
+For questions or support, please contact [espoirativon@gmail.com] & TALL ISSOUF [fstt000073@um5.ac.ma].
